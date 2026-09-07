@@ -146,7 +146,7 @@ const Hero = () => {
               {/* === COMMAND GRID === */}
               <div className="grid grid-cols-2 gap-3 mt-2">
                  {/* Resume */}
-                 <a href="/Abhishek_Taur_Resume.pdf" target="_blank" className="group p-3 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 transition-colors flex items-center gap-3 cursor-pointer">
+                 <a href="/ABHISHEK_Taur (1).pdf" target="_blank" className="group p-3 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 transition-colors flex items-center gap-3 cursor-pointer">
                     <div className="p-1.5 bg-blue-500/20 rounded-lg text-blue-400 group-hover:text-blue-300">
                        <FileText size={14} />
                     </div>

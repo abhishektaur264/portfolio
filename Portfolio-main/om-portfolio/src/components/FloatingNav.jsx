@@ -137,8 +137,8 @@ const FloatingNav = () => {
 
            {/* --- NEW RESUME DOWNLOAD BUTTON --- */}
            <a
-             href="/Abhishek_Taur_Resume.pdf"
-             download="Abhishek_Taur_Resume.pdf"
+             href="/ABHISHEK_Taur (1).pdf"
+             download="ABHISHEK_Taur (1).pdf"
              className="relative p-3 rounded-full text-gray-400 hover:text-green-400 hover:bg-white/5 transition-all group"
            >
               <Download size={18} />
