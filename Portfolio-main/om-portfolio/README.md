@@ -2,7 +2,7 @@
 
 ![Portfolio Preview](public/screenshot.png)
 
-> **Live Demo:** [https://ompatil.site](https://ompatil.site)
+> **Live Demo:** [https://Abhishek.site](https://Abhishek.site)
 
 A high-performance, immersive developer portfolio built with **React**, **Vite**, and **Framer Motion**. Designed to showcase my projects, technical expertise, and real-time GitHub activity with velocity-based animations and a modern dark aesthetic.
 

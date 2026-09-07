@@ -9,7 +9,7 @@ export default async function handler(req, res) {
   // Query GitHub for your specific contributions
   const query = `
     query {
-      user(login: "ompatil-711") {
+      user(login: "abhishektaur264") {
         contributionsCollection {
           contributionCalendar {
             totalContributions
